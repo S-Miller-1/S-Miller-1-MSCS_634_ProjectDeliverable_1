@@ -1,0 +1,6 @@
+Cleaning step,Rows remaining,Rows removed in this step
+Original file,541909,0
+After removing exact duplicates,536641,5268
+After removing missing essential fields,535187,1454
+After excluding cancellations,525936,9251
+Final paid-sales rows,524878,1058
